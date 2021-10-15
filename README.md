@@ -27,5 +27,5 @@ FUTURE CONSIDERATIONS
 •	Create new headers for H2 and H3 so that it is very clear that one section is “services” and one section is “benefits”
 
 HOW TO CONTRIBUTE
-•	https://rfields03.github.io/Challenge1/
+•	https://rfields03.github.io/Horiseon/
 
