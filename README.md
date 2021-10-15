@@ -13,16 +13,19 @@ ACCEPTANCE CRITERIA
 •	WHEN I view the heading attributes
 •	THEN they fall in sequential order
 •	WHEN I view the title element
-•	THEN I find a concise, descriptive title 
+•	THEN I find a concise, descriptive title
+
 TASKS PERFORMED
 •	Re-name “website” to “Horiseon Website” in HTML
 •	Made “Horiseon” one color to reduce code complexity
 •	Add alt “” to all images in HTML file.  Images are decorative, therefore “”.
 •	Changed areas with low contrast from 16px to 20px – lead generation, brand awareness, cost management.  Updated p class in CSS.
 •	Insert section explanations into HTML
-•	Grouped and labeled similar CSS
+•	Grouped and labeled CSS selectors
+
 FUTURE CONSIDERATIONS
 •	Create new headers for H2 and H3 so that it is very clear that one section is “services” and one section is “benefits”
+
 HOW TO CONTRIBUTE
 •	https://rfields03.github.io/Challenge1/
 
